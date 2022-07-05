@@ -183,3 +183,23 @@ body {
 }
 
 /* Subscribe Area End */
+footer{
+    margin: 0;
+    background-color:black ;
+    padding: 40px 0;
+    text-align: center;
+}
+
+footer h2 {
+    font-family: 'Righteous', cursive;
+    color: red;
+    margin: 0;
+    font-size: 2rem;
+}
+footer h3 {
+    font-family: "Kanit", sans-serif;
+    font-size: 1.2rem;
+    color: white;
+    margin: 0;
+    
+}   
