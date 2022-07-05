@@ -5,7 +5,7 @@ body {
 
 /* Header Area Start */
 .header-area {
-  background-image: url(images/1.jpg);
+  background-image: url(images/bannar.jpg);
   background-repeat: no-repeat;
   padding: 150px 200px;
   background-size: 100% auto;
@@ -86,3 +86,46 @@ body {
 }
 
 /* Donate Are End */
+/* Donate Plan Area Strat  */
+.donate-plan-area{
+    padding: 75px 80px;
+    background-color: rgb(226, 238, 238);
+}
+.donate-item {
+    height: 300px;
+    width: 350px;
+    text-align: center;
+}
+
+.donate-plan {
+    display: flex;
+    justify-content: center;
+    
+}
+.center{
+    text-align: center;
+    padding: 10px 150px;
+
+}
+.donate-plan-item {
+    width: 30%;
+    margin: 0 1%;
+    padding: 10px 1%;
+    border-radius: 10px;
+}
+.donate-item-heading {
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+.color-1 {
+    background-color: rgb(255, 223, 223);
+}
+.color-2 {
+    background-color: rgb(195, 233, 238);
+}
+.color-3 {
+    background-color: rgb(226, 223, 194);
+}
+
+/* Donate Plane Area End */
