@@ -1,3 +1,37 @@
 body {
-    font-family: 'Kanit', sans-serif; 
+  font-family: "Kanit", sans-serif;
+  margin: 0;
 }
+
+/* Header Area Start */
+.header-area {
+  background-image: url(images/donation3.jpg);
+  background-repeat: no-repeat;
+  padding: 150px 200px;
+  background-size: 100% auto;
+  text-align: center;
+}
+
+.header-area .banner-heading {
+  margin: 0;
+  padding: 0 160px;
+  font-size: 3.5rem;
+  color: #eaeb9d;
+  line-height: 60px;
+}
+
+.header-area .banner-para {
+  font-size: 1.2rem;
+  color: #fcff0b;
+  margin: 35px 0;
+}
+
+.header-area .donate-button {
+  text-decoration: none;
+  color: #eaeb9d;
+  font-size: 1.5rem;
+  background-color: rgb(10, 41, 143);
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+/* Header Area End */
